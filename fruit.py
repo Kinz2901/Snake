@@ -1,5 +1,4 @@
-from turtle import Screen, Turtle
-from snake import Snake
+from turtle import Turtle
 import random
 
 class Fruit(Turtle):
